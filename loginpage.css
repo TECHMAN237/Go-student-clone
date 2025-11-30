@@ -1,0 +1,59 @@
+body {
+    background-image: url("1496.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.center {
+  position:static;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+max-width:200px;
+min-height:300px;
+ padding: 30px;
+ background: rgba(89, 74, 133, 0.532);
+ border-radius: 20px;
+ box-shadow: 10PX 10px 10px 10PX rgba(159, 154, 159, 0.648);
+}
+.container{
+  border-radius: 10px;
+}
+  
+ .button:hover {
+ background-color: rgba(14, 14, 15, 0.849);
+}
+
+div {
+  background-color: rgba(236, 234, 238, 0.334);
+  width: 300px;
+  border: 0px solid rgb(0, 109, 128);
+  padding: 50px;
+  margin: 0 auto;
+  margin-top: 160px;
+}
+button:hover{
+  background-color: rgb(8, 121, 220);
+
+}
+button:active{
+  background-color: rgb(210, 43, 232);
+}
+#ALIGN{
+  text-align: left;
+}
+.but{
+  width: 60px;
+  height: 40px;
+  border-radius: 20px;
+  margin-right: 50px;
+  padding-left: 50;
+  background-color: blue;
+  margin-left: 40%;
+  cursor: pointer;
+  color: white;
+}
+.but a{
+    text-decoration: none;
+    color:rgb(253, 253, 253)
+}
